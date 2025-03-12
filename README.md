@@ -7,11 +7,10 @@ Okay, so we want to figure out the best way to train LLMs to do RL with verifiab
 
 I remember from the DeepSeek R1 [paper](https://arxiv.org/abs/2501.12948) that GRPO with correctness and format rewards can learn to solve math and code problems. 
 
-But, I don't think they've reported hyperparameter ablations for GRPO beyond the values used the earlier DeepSeekMath [paper](https://arxiv.org/abs/2402.03300). It's also not clear how much this extends to problems beyond math and code, particularly with smaller models.
+But, I don't think they've reported hyperparameter ablations for GRPO beyond the values used in the earlier DeepSeekMath [paper](https://arxiv.org/abs/2402.03300). It's also not clear how much this extends to problems beyond math and code, particularly with smaller models.
 
 Hmm, so there's a number of LLM RL training libraries which might be useful here, each with their own different implementation choices:
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl)
-- [TRL](https://github.com/huggingface/trl)
 - [oat](https://github.com/sail-sg/oat/tree/main)
 - [open-instruct](https://github.com/allenai/open-instruct)
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
