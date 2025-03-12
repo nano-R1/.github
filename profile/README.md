@@ -11,7 +11,6 @@ But, I don't think they've reported hyperparameter ablations for GRPO beyond the
 
 Hmm, so there's a number of LLM RL training libraries which might be useful here, each with their own different implementation choices:
 - [axolotl](https://github.com/axolotl-ai-cloud/axolotl)
-- [TRL](https://github.com/huggingface/trl)
 - [oat](https://github.com/sail-sg/oat/tree/main)
 - [open-instruct](https://github.com/allenai/open-instruct)
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
