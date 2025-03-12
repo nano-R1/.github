@@ -22,7 +22,7 @@ Hmm, so there's a number of LLM RL training libraries which might be useful here
 - [verifiers](https://github.com/willccbb/verifiers)
 - [veRL](https://github.com/volcengine/verl)
 
-There's also some benchmarks that are commonly studied in p, but there isn't really an agreed-upon gold standard set:
+There's also some benchmarks that are commonly studied in practice, but there isn't really an agreed-upon gold standard set:
 - Math (MATH, AIME, FrontierMath)
 - Coding (HumanEval, IOI, CodeForces)
 - Logic puzzles (Alice in Wonderland, Sudoku, Temporal Clue)
