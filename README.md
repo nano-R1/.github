@@ -1,4 +1,4 @@
-# Nano-R1
+# nano-R1
 Crowdsourcing the recipe search for compute-optimal LLM RL with verifiable rewards.
 
 **\<think\>**
